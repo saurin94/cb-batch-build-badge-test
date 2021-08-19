@@ -1,1 +1,3 @@
 ![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicGRTUVYzelpsTzFOak5Hc3c0TGhVRnk2QVZXZXFMSE11VmtpQjZiMEswVHZVVVRJZjd4bHZUWDczWTdOeWIrWkwySWJ4MWJzaEtueXN2Y3lvSWI0SzVBPSIsIml2UGFyYW1ldGVyU3BlYyI6IkRKdTl3RGlQd0R3RnVjamsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
+
+test iad aggregated batch
